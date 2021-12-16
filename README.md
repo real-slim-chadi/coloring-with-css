@@ -1,5 +1,8 @@
 # coloring-with-css
-    Now that you designed your HTML, It's time for us to make your web page more beautiful!
+Now that you designed your HTML, It's time for us to make your web page more beautiful!
+
+# How to run
+    Download this repository and double click on the `index.html` file.
     
 # what's in this repo
 
